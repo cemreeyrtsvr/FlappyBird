@@ -12,27 +12,20 @@
 
 
 ## Oyun Hakkında
-Bu proje benim **C# öğrenirken** yaptığım basit bir oyun çalışmasıdır. Hepimizin bildiği **Flappy Bird** oyununu, `Windows Forms` kullanarak geliştirdim.  
+Bu proje benim **C# öğrenirken** yaptığım basit bir oyun çalışmasıdır.**Flappy Bird** oyununu, `Windows Forms` kullanarak geliştirmeye çalıştım. 
 
 Oyunun amacı: **boşluk tuşuna basarak kuşu uçurmak ve borulara çarpmadan ilerlemek.**  
-Ne kadar uzun süre dayanırsan, o kadar çok puan kazanırsın 
-
-
 
 ## Özellikler
-- C# ile yazıldı, Visual Studio 2022’de çalışıyor  
-- **Space (boşluk tuşu)** ile kontrol  
-- Borulara değersen oyun bitiyor   
+- C# ile yazıldı.
+- **Space (boşluk tuşu)** ile kontrol , **r** tuşu ile oyuna yeniden başlama.
+- Borulara veya gökyüzü sınırına değersen oyun bitiyor .  
 - Geçilen her boru için +1 puan   
 
 
 
 ##  Kurulum
-1. Bu projeyi bilgisayarına klonla:  
-   ```bash
-   git clone https://github.com/cemreeyrtsvr/FlappyBird.git
+1. Bu projeyi bilgisayarına indir.
 2. Visual Studio 2022 ile aç.
-
 3. bird.png, pipe.png, background.png dosyalarını projeye eklemeyi unutma.
-
-4. F5 ile çalıştır ve oyna.
+4. Çalıştır ve oyna.
