@@ -1,11 +1,13 @@
 # FlappyBirds 
 # Flappy Bird (C# - WinForms)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/KULLANICI_ADI/FlappyBird)
-![GitHub stars](https://img.shields.io/github/stars/KULLANICI_ADI/FlappyBird?style=social)
-![GitHub forks](https://img.shields.io/github/forks/KULLANICI_ADI/FlappyBird?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/KULLANICI_ADI/FlappyBird)
-![Made with C#](https://img.shields.io/badge/Made%20with-C%23-178600?logo=c-sharp&logoColor=white)
+
+![GitHub repo size](https://img.shields.io/github/repo-size/cemreeyrtsvr/FlappyBird)
+![GitHub stars](https://img.shields.io/github/stars/cemreeyrtsvr/FlappyBird?style=social)
+![GitHub forks](https://img.shields.io/github/forks/cemreeyrtsvr/FlappyBird?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/cemreeyrtsvr/FlappyBird)
+![Made with C#](https://img.shields.io/badge/Made%20with-C%23-blue)
+
 
 
 
